@@ -1,8 +1,8 @@
-# Hotel Booking Website
+# Hotel Booking System
 A responsive, multi-page hotel booking website with room browsing, a login/register flow, and a full-page layout built on Bootstrap.
 
 # Overview
-VK Hotel is a front-end web application for a fictional hotel, covering the core flows a real hotel site needs: a landing page, room listings, a booking/contact flow, and user authentication modals — all fully responsive across devices.
+Hotel-Booking-System is a front-end web application for a fictional hotel, covering the core flows a real hotel site needs: a landing page, room listings, a booking/contact flow, and user authentication modals — all fully responsive across devices.
 
 ## Features
 - Responsive multi-page layout (Home, Rooms, About, Contact) with a sticky navbar
